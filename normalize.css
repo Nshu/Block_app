@@ -1,0 +1,21 @@
+ body {
+   width: 100%;
+   font-size: 32px;
+ }
+
+ h1 {
+   color: red;
+ }
+
+ form {
+   font-size: 32px;
+ }
+input{
+  font-size: 32px;
+}
+
+ textarea {
+   font-size: 32px;
+    width: 90%;
+   height: 2em;
+ }
